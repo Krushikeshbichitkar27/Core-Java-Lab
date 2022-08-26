@@ -1,7 +1,7 @@
 /*
 Program :  Java program to print pattern 
 code by : Krushikesh
-Date :26/08/22
+Date :25/08/22
 */
 
 
