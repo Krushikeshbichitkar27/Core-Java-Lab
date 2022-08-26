@@ -1,6 +1,6 @@
 /*
 Program:Java program to find largest and second largest number array
-@code by:swapnil
+@code by:krushikesh
 date:25/08/22
 */
 
