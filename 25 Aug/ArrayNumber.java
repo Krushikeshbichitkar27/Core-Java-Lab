@@ -33,9 +33,9 @@ class ArrayNumber
 	   {
 		   for(int k=j+1;k<len;k++)
 		   {
-			   if(myarray[j]>myarray[k])
+			   if(myarray[j]>myarray[k])  
 			   {
-				   temp=myarray[j];
+				   temp=myarray[j];      //swaping values
 				   myarray[j]=myarray[k];
 				   myarray[k]=temp;
 				   
