@@ -5,7 +5,7 @@ Date : 15 September 2022
 */
 class Tagline
 {
-     //mathod to print days according to day number 
+     //mathod to print tagline
 	static void printTagline()
 	{
 	String brand="Nike";  
