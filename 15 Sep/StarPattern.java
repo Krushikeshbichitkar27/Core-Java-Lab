@@ -12,7 +12,7 @@ import java.io.*;
 // creating a class star pattern
  class StarPattern 
 {
-    // creating a method print trangle
+    // creating a method print Pattern
      static void printPattern(int n)
     {
         // outer loop 
@@ -42,6 +42,6 @@ import java.io.*;
     public static void main(String... args)
     {
         int number=Integer.parseInt(args[0]);
-        printPattern(number);// calling print trangle
+        printPattern(number);// calling print pattern
     }
 }
