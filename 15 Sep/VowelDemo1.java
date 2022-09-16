@@ -1,10 +1,10 @@
 /*
 @ Program:Java progam to find whether the character entered is vowel ,consonant ,number and special character.
 code by : Krushikesh
-Date : 12 September 2022
+Date : 15 September 2022
 */
 
-//creating class AsciiValue1
+//creating class VowelDemo1
 class VowelDemo1
 {
 
